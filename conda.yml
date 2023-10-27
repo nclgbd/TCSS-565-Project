@@ -8,6 +8,7 @@ dependencies:
       - folium
       - geopandas
       - geopy
+      - gmaps
       - hydra-core
       - mapclassify
       - matplotlib
