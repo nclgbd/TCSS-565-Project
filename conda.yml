@@ -10,6 +10,7 @@ dependencies:
       - geopy
       - gmaps
       - hydra-core
+      - kaggle
       - mapclassify
       - matplotlib
       - rich
