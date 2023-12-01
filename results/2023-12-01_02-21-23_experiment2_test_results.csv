@@ -1,0 +1,5 @@
+model_name,accuracy,precision,recall,f1
+LogisticRegression,0.0,0.0,0.0,0.0
+RandomForestClassifier,1.0,1.0,1.0,1.0
+SVC,0.75,1.0,0.75,0.8571428571428571
+XGBClassifier,0.75,1.0,0.75,0.8571428571428571
